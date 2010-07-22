@@ -1,0 +1,13 @@
+calendarBox:
+  caption:
+    ja_JP: "Googleカレンダー"
+  description:
+    ja_JP: "カレンダーを表示します"
+  component: [calendar,calendarBox]
+  config:
+    domain:
+      Name:       "domain"
+      Caption:    "GoogleAppsDomain"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: true

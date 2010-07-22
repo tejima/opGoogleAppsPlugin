@@ -1,0 +1,13 @@
+calendarBoxFriend:
+  caption:
+    ja_JP: "カレンダー（フレンド用）"
+  description:
+    ja_JP: "カレンダー（フレンド用）を表示します"
+  component: [calendar, calendarBoxFriend]
+  config:
+    domain:
+      Name:       "domain"
+      Caption:    "GoogleAppsDomain"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: true
