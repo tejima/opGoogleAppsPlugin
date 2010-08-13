@@ -3,7 +3,7 @@ calendarBoxFriend:
     ja_JP: "カレンダー（フレンド用）"
   description:
     ja_JP: "カレンダー（フレンド用）を表示します"
-  component: [calendar, calendarBoxFriend]
+  component: [gacalendar, calendarBoxFriend]
   config:
     domain:
       Name:       "domain"

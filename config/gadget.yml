@@ -3,7 +3,7 @@ calendarBox:
     ja_JP: "Googleカレンダー"
   description:
     ja_JP: "カレンダーを表示します"
-  component: [calendar,calendarBox]
+  component: [gacalendar,calendarBox]
   config:
     domain:
       Name:       "domain"
